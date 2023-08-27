@@ -1,6 +1,6 @@
 # TechLingo
 
-'''What did you say?'''
+** What did you say? **
 
 A dictionary for all the tech jargon you hear and know nothing about.
 
